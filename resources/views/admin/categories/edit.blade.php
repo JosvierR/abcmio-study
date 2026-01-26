@@ -1,0 +1,21 @@
+@extends('frontend.layouts.app')
+
+@section('scripts')
+@stop
+@section('styles')
+@stop
+
+@section('content')
+    <div class="container">
+        <form class="form-horizontal" id="form_create" action="{{ route('admin.categories.update',$category) }}" method="POST" >
+            @csrf
+            @method('put')
+            @include('admin.categories._form')
+            <div class="form-group row">
+                <div class="col-sm-10">
+                    <button type="submit" class="btn btn-success">Actualizar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+@endsection

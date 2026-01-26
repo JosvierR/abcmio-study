@@ -1,0 +1,638 @@
+id,name,parent_id,is_free
+4583,"ECONOMIA COLABORATIVA . Collaborative Economic . Economie collaborative",0,0
+4728,"ORGANIZACIONES Y NEGOCIOS . organizations and  business .    les organisations  et ENTREPRISE",0,0
+4827,"ACTIVIDADES . activities . ACTIVITES",0,0
+7062,"PRODUCTOS . products . PRODUITS",0,0
+7063,"FUNERARIA . Mortuary . MAISON FUNERAIRE",4728,0
+7064,"HOTEL . hotel . HOTEL",4728,0
+7065,"HOSPITALES . Hospitals . LES HOPITAUX",4728,0
+7066,"GIMNASIO . Gym . GYM",4728,0
+7067,"FARMACIA . pharmacy . PHARMACIE",4728,0
+7069,"DISCOTECA . Discotheque . DISCO",4728,0
+7071,"HELADERIAS . Ice cream parlors . GLACIERS",4728,0
+7072,"Hamburguesa . Burger . Burger",7062,0
+7073,"CONSULTORIA JURIDICA .",4728,0
+7074,"Pañuelo . Handkerchief . Foulard",7062,0
+7075,"Excursiones . excursions . excursions",4827,0
+7076,"Ascensores . Lifts . Ascenseurs",7062,0
+7077,"CORTINAS . Curtains . RIDEAUX",4728,0
+7079,"REPOSTERIAS . Pastry . PATISSERIE",4728,0
+7080,"CASA Y JARDIN . House and garden . MAISON ET JARDIN",4728,0
+7084,"Paragomas . parking stop . arrêt de stationnement",7062,0
+7086,"Telefonos . Phones . Telephone",7062,0
+7090,"TASADORES . Appraisers . EVALUATEURS",4728,0
+7091,"SEGURIDAD . security . LA SECURITE",4728,0
+7092,"FLORISTERIA . Florist . FLEURISTE",4728,0
+7093,"COMIDA . Foods . LA NOURRITURE",4728,0
+7096,"Gas propano . Propane gas . Gaz propane",7062,0
+7099,"Sogas . Ropes . Cordes",7062,0
+7100,"BANCO DE SANGRE . blood bank . BANQUE DE SANG",4728,0
+7101,"CIRUGIA COSMETICA . Cosmetic Surgery . CHIRURGIE ESTHETIQUE",4728,0
+7102,"BEBIDAS ALCOHOLICAS  . Alcoholic beverages . BOISSONS ALCOOLISEES",4728,0
+7103,"SALON DE EVENTOS . Event hall . SALON DE EVENEMENTS",4728,0
+7104,"Fiestas . party . fête",4827,0
+7105,"Conferencias . conferences . conférences",4827,0
+7108,"zinc . zinc . zinc",7062,0
+7109,"EQUIPOS DEPORTIVOS . Sport teams . EQUIPES SPORTIVES",4728,0
+7110,"TELECOMUNICACIONES . Telecommunications . TELECOMMUNICATIONS",4728,0
+7111,"PANELES SOLARES . Solar panels . PANNEAUX SOLAIRES",4728,0
+7114,"AGENCIA DE ADOPCION . Adoption Agency . AGENCE DE ADOPTION",4728,0
+7115,"JOYAS . Jewelry . BIJOUX",4728,0
+7116,"CONTRATISTA . contractor . ENTREPRENEUR",4728,0
+7117,"LABORATORIOS . Laboratories . LABORATORIES",4728,0
+7118,"LAVANDERIAS . Laundries . BLANCHISSERIES",4728,0
+7119,"MUDANZAS . Removals . DEMENAGEMENTS",4728,0
+7120,"POLICIA . Police . POLICE",4728,0
+7121,"ORGANIZACION DE EVENTOS . Events . LES EVENEMENTS",4728,0
+7122,"Alfombras . carpets . tapis",7062,0
+7123,"AGUA . Water . LE EAU",4728,0
+7124,"BILLARES . Billiards . BILLARD",4728,0
+7125,"METALMECANICA . Metalworking . TRAVAIL DES METAUX",4728,0
+7127,"Lentes de Seguridad . Safety glasses . Lunettes de protection",7062,0
+7128,"CLINICA DENTAL . dental clinic . CLINIQUE DENTAIR",4728,0
+7132,"NECESITO . needed . J AI BESOIN",4583,0
+7133,"HOSPEDAJE . lodging . HEBERGEMENT",4583,0
+7134,"OTRAS . others . AUTRE",4583,0
+7137,"GENERADORES ELECTRICOS . Electric generators . GENERATEURS ELECTRIQUES",4728,0
+7139,"Paletas . Pallets . Palettes",7062,0
+7140,"EQUIPOS NEUMATICOS . Pneumatic Equipment . EQUIPEMENT PNEUMATIQUE",4728,0
+7141,"EQUIPOS HIDRAULICOS . Hydraulic Equipment . EQUIPEMENT HYDRAULIQUE",4728,0
+7142,"Carteras . Wallets . Portefeuilles",7062,0
+7145,"Carretillas . Wheelbarrows . Brouettes",7062,0
+7146,"Computadoras . Computers . Des ordinateurs",7062,0
+7147,"ARMERIA . Armory . ARMURIE",4728,0
+7149,"COMBUSTIBLES . Fuels . CARBURANTS",4728,0
+7150,"ESTACIONAMIENTOS . parking lot . PARKING",4728,0
+7152,"COLMADO . Grocery store . EPICERIE",4728,0
+7153,"SASTRERIA . Tailor shop . COUTURE",4728,0
+7154,"Banderas . Flags . Drapeaux",7062,0
+7157,"Deporte . sport . le sport",4827,0
+7158,"Educacion . Education . education",4827,0
+7159,"Arte y Cultura . Art and culture . Art et Culture",4827,0
+7160,"Empresariales . Business . Entreprise",4827,0
+7162,"Ferias . fairs . foires",4827,0
+7163,"Concierto . concert . concert",4827,0
+7164,"Literatura . literature . littérature",4827,0
+7166,"LUCES Y SONIDOS . Lights and Sounds . LUMIERE ET SONS",4728,0
+7167,"AEROPUERTOS . Airports . LES AEROPORTS",4728,0
+7168,"MATERIALES ELECTRICOS . Electrical Materials . MATERIAUX ELECTRIQUES",4728,0
+7170,"Sobres . Envelopes . Enveloppes",7062,0
+7171,"SURF . Surf . SURF",4728,0
+7173,"YOGA . Yoga . YOGA",4728,0
+7174,"PILATES . Pilates . PILATES",4728,0
+7176,"IDIOMAS . Languages . lANGUES",4728,0
+7178,"SEGUROS . Insurance . ASSURANCES",4728,0
+7179,"Happy Hours . Happy Hours . Happy Hours",4827,0
+7180,"EQUIPOS DE OFICINA . Office Equipment . EQUIPEMENT DE BUREAU",4728,0
+7181,"RENTA DE EQUIPOS . Equipment rental . LOCATION DE EQUIPEMENT",4728,0
+7183,"IZAJE . Hoist . HOIST",4728,0
+7184,"PARTES DE VEHICULOS .  Auto parts . PIECES DE VEHICULES",4728,0
+7185,"REGALOS . Present . PRESENTE",4728,0
+7186,"BARES . pubs . BARS",4728,0
+7187,"TAXIS . Taxis . TAXIS",4728,0
+7188,"ELECTRICIDAD DE VEHICULO . Electricity of Vehicles . ELECTRICITE DES VEHICULES",4728,0
+7189,"REPARACION Y MANTENIMIENTO . Repairs maintenance . REPARATIONS entretien",4728,0
+7190,"BIENES RAICES . real estate . IMMOBILIER",4728,0
+7191,"FINANCIERAS . Financial . FINANCIERE",4728,0
+7192,"FERRETERIA . Hardware store . QUINCAILLERIE",4728,0
+7193,"COOPERATIVAS . Cooperatives . LES COOPERATIVES",4728,0
+7194,"DIVISAS . Foreign exchange . DEVISES",4728,0
+7195,"CARNICERIAS . Butchers . BOUCHERS",4728,0
+7196,"APUESTAS . Bets . PARIS",4728,0
+7198,"EQUIPOS PESADOS . Heavy Equipment . EQUIPEMENT LOURD",4728,0
+7199,"PARACAIDISMO . Skydiving . PARACHUTISME",4728,0
+7200,"SOFTWARE . software . LOGICIELS",4728,0
+7201,"EFICIENCIA ENERGETICA . Energy efficiency . EFFICACITE ENERGETIQUE",4728,0
+7202,"ENVIOS . Shipping . EXPEDITION",4728,0
+7203,"VEHICULOS . vehicles . VÉHICULES",4728,0
+7207,"bombillos . light bulbs . ampoules",7062,0
+7210,"RADIO . Radio . LA RADIO",4728,0
+7211,"Bañeras . Bathtubs . Baignoires",7062,0
+7213,"Impresoras y fotocopiadoras . Printers and photocopiers . Imprimantes et photocopieurs",7062,0
+7214,"MARKETING . Marketing . LE MARKETING",4728,0
+7215,"SPA . spa . SPA",4728,0
+7216,"CAMPO DE GOLFT . golf camp . TERRAIN DE GOLFT",4728,0
+7217,"CAMPO DE FUTBALLcampo de Futbol . football field . TERRAIN DE FOOTBALL",4728,0
+7218,"CLUB DEPORTIVO . Sport Club . CLUB SPORTIF",4728,0
+7219,"Carrera de Caballos . Horse race . Course de chevaux",4728,0
+7220,"Buceo . Diving . Plongée",4728,0
+7223,"ROBOTICA . Robotics . ROBOTIQUE",4728,0
+7224,"CENTRO COMERCIAL . Mall . CENTRE COMMERCIAL",4728,0
+7225,"BOLICHE . Bowling . BOULING",4728,0
+7226,"Asfalto . asphalt . asphalte",7062,0
+7228,"ELECTRODOMESTICOS . Home appliances . APPREILS",4728,0
+7229,"CALIBRACION . Calibration . ETALONNAGE",4728,0
+7230,"ARTES MARCIALES . Martial Arts . ARTS MARTIAUX",4728,0
+7231,"ELECTRONICA . Electronics . ELECTRONIQUE",4728,0
+7232,"VETERINARIA . Veterinary . VETERINAIRE",4728,0
+7233,"UNIVERSIDADES . Universities . LES UNIVERSITES",4728,0
+7234,"ESCUELAS . Schools . LES ECOLES",4728,0
+7235,"VIVERO . plant Nursery . PEPINIERE",4728,0
+7236,"IMPRESORAS Y FOTOCOPIADORAS . Printers and photocopiers . IMPRIMANTES ET PHOTOCOPIEURS",4728,0
+7237,"CAJERO AUTOMATICO . ATM . CAISSE AUTOMATIQUE",4728,0
+7238,"CERTIFICACIONES . Certifications . CERTIFICATIONS",4728,0
+7239,"Cremalleras . Zipper . Fermeture eclair",7062,0
+7240,"GOBIERNO . government . GOUVERNEMENT",4728,0
+7241,"Lentes de Seguridad . Safety glasses . Lunettes de protection",7062,0
+7243,"EQUIPOS MEDICOS . Medical equipments . EQUIPEMENT MEDICAL",4728,0
+7244,"UNIFORMES . Uniforms . UNIFORMES",4728,0
+7245,"EQUIPO SUPERMERCADO . Supermarket Equipment . EQUIPEMENT DE SUPERMARCHE",4728,0
+7246,"PINTURAS . Paintings . PEINTURES",4728,0
+7247,"PRODUCTOS DE BELLEZA . BEAUTY PRODUCTS . PRODUITS DE BEAUTE",4728,0
+7249,"Periodico Digital. Digital Newspapers . Journaux Numerque",4728,0
+7250,"Bolsas . Bags . Sacs",7062,0
+7251,Otros,4728,0
+7252,"OTRAS . others . AUTRE",4827,0
+7255,"Zona Franca . Free Zone . Zone franche",4728,0
+7256,"Centrales Telefonicas",7062,0
+7257,"Gruas . Cranes . Grues",7062,0
+7258,"Grapadoras . Staplers . Agrafeuses",7062,0
+7259,"Agenda . Diary . agenda",7062,0
+7260,"Luces y Sonidos . Lights and Sounds . Lumières et sons",7062,0
+7262,"Cuidado de Personas . People Care . Prendre soins des personnes",4728,0
+7263,"Carton . Paperboard . Carton",7062,0
+7264,"Cigarros . Cigars . Les cigares",7062,0
+7265,"Aire Acondicionado . Air conditioning . Air conditionné",4728,0
+7266,"Carnes . meats . viandes",7062,0
+7267,"Artesania . Crafts . Artisanat",7062,0
+7268,"Quiropracticos . Chiropractors . Chiropraticiens",4728,0
+7269,"Merceria . Haberdashery . Mercerie",4728,0
+7270,"Agencias de viajes . Travel agency . Agences de voyages",4728,0
+7272,"Sala de Tareas . Homework Room . Salle de devoirs",4728,0
+7273,"TRANSPORTE . transport . TRANSPORT",4728,0
+7274,"Casinos . Casinos . Les casinos",4728,0
+7275,"Medicinas . Medicines . Medicaments",7062,0
+7276,"Lentes de sol . Sunglasses . Lunettes de soleil",7062,0
+7277,"Calculadoras . Calculators . Calculatrices",7062,0
+7280,"Compraventa . Buy and sell . Acheter et vendre",4728,0
+7281,"Botellas . Bottles . Bouteilles",7062,0
+7282,"Entretenimiento .  Entertainment . Divertissement",4728,0
+7283,"Cerveza . Beer . Biere",7062,0
+7284,"Guias de turistas . Tour guides . Guides touristiques",4728,0
+7286,"Teatro .  theater . théâtre",4827,0
+7287,"Libros . books . Livres",7062,0
+7288,"Controles Electromecanicos . Electromechanical Controls . Commandes electromecaniques",7062,0
+7289,"Intercomunicadores . Intercoms . Interphones",4728,0
+7290,"Gasolina . Gasoline . De le essence",7062,0
+7291,"Modelaje . Modeling . La modélisation",4728,0
+7294,"AudioVisual . Audiovisual . Audio-visuel",4728,0
+7295,"Productos del mar . Sea products . Produits de la mer",7062,0
+7297,"Cigarros . Cigars . Les cigares",4728,0
+7300,"Herrerias . Blacksmiths . Forgerons",4728,0
+7302,"Publicidad . Advertising . La publicité",4728,0
+7303,"Construccion . Building . Batiment",4728,0
+7304,"Iluminacion . Illumination . Eclairage",4728,0
+7305,"Religion . Religion . Religion",4827,0
+7306,"Transformadores . Transformers . Transformers",7062,0
+7314,"Agroindustria . Agroindustry . Agroalimentaire",4728,0
+7319,"remolques . Trailers . Bandes annonces",7062,0
+7321,"Relojes . Watches . Montres",4728,0
+7323,"Pozos y Filtrantes . Wells and Filters .",4728,0
+7324,"Septicos . Septics . Fosses septiques",4728,0
+7325,"Bombas de Agua . Water pumps . Pompes à eau",4728,0
+7326,"Granito . Granite . Granit",4728,0
+7327,"Opticas . Optical . Optique",4728,0
+7328,"Masaje . Massage . Massage",4728,0
+7329,"Turismo . tourism . le tourisme",4827,0
+7330,"Bloques . Blocks . Blocs",7062,0
+7331,"MUEBLERIA . Furniture . Meubles",4728,0
+7332,"Rent a Car . Rent a car . Louer une voiture",4728,0
+7333,"Restaurantes . Restaurants . Restaurants",4728,0
+7334,"Bordado . Embroidery . Broderie",4728,0
+7335,"DESARROLLO WEB . Web page . Page Web",4728,0
+7336,"Mortero . Mortar . Mortier",7062,0
+7338,"Investigador Privado . Private investigator . Detective prive",4728,0
+7355,"Cafeterias . Coffee shops . Les cafés",4728,0
+7356,"Mercado . Market . Marche",4728,0
+7357,"Pescaderias . Fishmongers . Poissonniers",4728,0
+7358,"Fundaciones . Foundations . Fondations",4728,0
+7360,"Internet y TV . Internet and TV . Internet et TV",4728,0
+7361,"Asociaciones . Associations . Les associations",4728,0
+7363,"Tratamiento de agua . Water treatment . Traitement de l'eau",4728,0
+7364,"Correos . Post . Publier",4728,0
+7365,"Clubes Sociales . Social Clubs . Clubes Sociales",4728,0
+7366,"Almohadas . Pillows . Oreillers",7062,0
+7367,"Agroquimicos . Agrochemicals . Agrochimie",4728,0
+7371,"Copiado de planos . Copying plans . Copie de plans",4728,0
+7373,"Tienda de Animales . Pet Shop . Animalerie",4728,0
+7374,"Agencia de Empleos . Employment agency . Agence de emploi",4728,0
+7380,"Herramientas . Tools . Outils",7062,0
+7382,"Bandas de musica . Bands . Groupes de musique",4728,0
+7387,"Panaderias . Bakeries . Boulangeries",4728,0
+7388,"Parques . Parks . Parques",4728,0
+7389,"Bancos . Banks . Les banques",4728,0
+7390,"Politica . politics . politique",4827,0
+7392,"Producción Agricola . Agricultural production . La production agricole",4728,0
+7393,"Reciclaje . Recycling . Recyclage",4728,0
+7394,"Manejo de Residuos . Waste Management . La gestion des dechets",4728,0
+7395,"Cinemas . Cinemas . Cinémas",4728,0
+7397,"Envases . Packaging . Emballage",7062,0
+7398,"Cementerio . Cemetery . Cimetiere",4728,0
+7399,"Pisos . Floors . Planchers",4728,0
+7402,"Hierro . Irons . Fers",7062,0
+7403,"Andamio . Scaffold . Échafaudage",4728,0
+7404,"Toldos . Awnings . Auvents",4728,0
+7405,"Almacen . warehouse . entrepôt",4728,0
+7406,"Vitrales . Stained glass . Vitrail",4728,0
+7407,"Consultores . Consultants . Consultants",4728,0
+7408,"Puertas . Doors . Des portes",4728,0
+7410,"Estadio Deportivo . Sports stadium . Stade de sport",4728,0
+7411,"Teatros . Theaters . Theatres",4728,0
+7412,"Anticuarios . Antique dealers . Antiquaires",4728,0
+7414,"Conectores . Connectors . Connecteurs",7062,0
+7415,"Gas Natural . Natural gas . Gaz naturel",7062,0
+7416,"Emprendimiento . Entrepreneurship . Entrepreneuriat",4827,0
+7417,"Camisas . shirts . chemises",7062,0
+7420,"Botones . Buttons . Boutons",7062,0
+7422,"Zapatos . Shoes . Chaussures",7062,0
+7423,"Vidrios . Glasses . Des lunettes",7062,0
+7424,"Tubo de . Tube of . Tube de",7062,0
+7426,"Aisladores . Insulators . Isolateurs",7062,0
+7427,"Baterias . Batteries . Piles",7062,0
+7428,"BICICLETAS . bikes . BICYCLES",7062,0
+7440,"Ron . Ron . Ron",7062,0
+7441,"Vinos . wines . vins",7062,0
+7445,"PINTURAS . Paintings . PEINTURES",7062,0
+7449,"Sofwares . Softwares . Logiciels",7062,0
+7450,"Medias . Socks . Chaussettes",7062,0
+7462,"Productos Agricolas . Farm products . Produits fermiers",7062,0
+7467,"Productos Mineros . Mining Products . Produits miniers",7062,0
+7478,"Abanicos . fan . éventail",7062,0
+7479,"Aceites . Oils . Huiles",7062,0
+7480,"Acero . Steel . Acier",7062,0
+7484,"Toallas . Towels . Les serviettes",7062,0
+7485,"Ropas . Clothes . vetements",7062,0
+7486,"Televisores . Televisions . Televisions",7062,0
+7488,"Postes de Alambradas",7062,0
+7494,"Jabones . Soaps . Savons",7062,0
+7495,"Breakers . Breakers . Disjoncteurs",7062,0
+7497,"Chocolate . Chocolate . Chocolat",7062,0
+7500,"Latas . Cans . Boites",7062,0
+7502,"inflables . inflatables . gonflables",7062,0
+7519,"Moldes . Molds . Moules",7062,0
+7520,"Pieles . Fur . Fourrure",7062,0
+7521,"Oxigeno . Oxygen . Oxygene",7062,0
+7523,"Motores Electricos . Electric motors . Moteurs électriques",7062,0
+7525,"Motocicletas . Motorcycles . motocyclettes",7062,0
+7526,"BARCOS . Boats . BATEAUX",7062,0
+7527,"Quesos . Cheeses . Les fromages",7062,0
+7528,"Pararrayos . Lightning rod . Paratonnerre",7062,0
+7531,"Produccion Animal . Animal production . Production animale",7062,0
+7532,"TRANSPORTE . transport . TRANSPORT",4583,0
+7533,"Mision Comercial . Trade mission . Mission commerciale",4827,0
+7536,"Comida de . Food from . Nourriture de",7062,0
+7537,"Peluqueria . Hairdressing . Coiffure",4728,0
+7539,"Supermercados . Supermarkets . Supermarchés",4728,0
+7540,"Tatuajes . Tattoos . Tatouages",4728,0
+7542,"Arte y Cultura . Art and culture . Art et Culture",4728,0
+7546,"Cursos . courses . cours",4827,0
+7547,"Lavadero de carros . Car wash . Lave Auto",4728,0
+7548,"Bombas de Agua . Water pumps . Pompes à eau",7062,0
+7549,"AMBULANCIAS . Ambulances . AMBULANCES",4728,0
+7550,"Gastronomia . Gastronomy . Gastronomie",4827,0
+7551,"Salud . Health . santé",4827,0
+7553,"Zapatos . Shoes . Chaussures",4728,0
+7554,"Ropa Usada . Used clothes . Vetements deja portes",4728,0
+7555,"Fundiciones . Foundries . Fonderies",4728,0
+7556,"Tiendas Digitales . Digital Stores . Magasins numeriques",4728,0
+7565,"Aires acondicionado . air conditioning . climatisation",7062,0
+7566,"Acetileno . Acetylene . Acetylene",7062,0
+7573,"Sillas . Chairs . Chaises",7062,0
+7575,"GENERADORES ELECTRICOS . Electric generators . GENERATEURS ELECTRIQUES",7062,0
+7576,"Etiquetas . Labels . Etiquettes",7062,0
+7577,"Estanterías . Shelves . Etageres",7062,0
+7581,"Postes Electricos . Electric Poles . Poteaux electriques",7062,0
+7582,"Salon de belleza . beauty salon . salon de beaute",4728,0
+7583,"Carnets . Carnets . Carnets",4728,0
+7584,"IDEAS . Ideas . IDEES",4583,0
+7585,"Manteles . Tablecloths . Nappes",7062,0
+7586,"Cuchillos . Knives . Des couteaux",7062,0
+7587,"Artesania . Crafts . Artisanat",4728,0
+7588,"Decoraciones . Decorations . Decorations",4728,0
+7590,"Medico . physician . Docteur",4728,0
+7591,"Mascotas . Pets . Les animaux",4728,0
+7593,"DEPORTES . sports . DES SPORTS",4728,0
+7594,"Energia Solar . Solar energy . Energie solaire",4728,0
+7599,"Velas y Velones . Candles . Bougies",7062,0
+7600,"Alambres Electricos . Electric Wires . Fils electriques",7062,0
+7604,"Hilos . Threads . Fils",7062,0
+7606,"Perfumes . Perfumes . Parfums",7062,0
+7607,"Nitrogeno . Nitrogen . Azote",7062,0
+7608,"Alambres . Wires . Fils",7062,0
+7609,"Ventanas . Windows . les fenetres",7062,0
+7610,"Calderas . Boilers . Chaudieres",7062,0
+7612,"Molinos de Arroz",7062,0
+7615,"Libreria . Bookshop . Librairie",4728,0
+7616,"Agencias de carros . Car agencies . Agences automobiles",4728,0
+7619,"Productos de construccion . Construction Products . Produits de construction",4728,0
+7620,"Zoologicos . Zoos . Zoos",4728,0
+7621,"Parque Botanico . Botanic Park . Parc botanique",4728,0
+7622,"ACADEMIA DE AVIACION . Aviation Academy . ACADEMIE DE AVIATION",4728,0
+7623,"Agencia de cooperacion . Cooperation Agency . Agence de coopération",4728,0
+7625,"Sellador de ductos . Duct sealer . Scellant de gaine",7062,0
+7626,"Lubricantes . Lubricants . Lubrifiants",7062,0
+7629,"Filtros de . Filters . Filtres",7062,0
+7630,"Radiadores . Radiators . Radiateurs",7062,0
+7631,"Telescopios . Telescopes . Telescopes",7062,0
+7632,"Microscopios . Microscopes . Microscopes",7062,0
+7633,"Corta Uñas . Nail clipper . Coupe-ongles",7062,0
+7634,"Pantaloncillos . Shorts . Short",7062,0
+7635,"sombreros . hats . Chapeaux",7062,0
+7636,"Guantes . Gloves . Gants",7062,0
+7637,"Cucharas . Spoons . Cuilleres",7062,0
+7638,"Tenedores . Forks . Fourches",7062,0
+7639,"Paneles Electricos . Electric Panels . Panneaux électriques",7062,0
+7640,"Aretes . Earrings . Des boucles d'oreilles",7062,0
+7641,"anillos . Rings . Anneaux",7062,0
+7642,"motores de . motors . moteurs",7062,0
+7644,"Marcapasos . Pacemaker . Stimulateur cardiaque",7062,0
+7645,"protesis . prosthesis . prothese",7062,0
+7646,"Muleta . Crutch . Bequille",7062,0
+7647,"Preservativos . Condoms . Preservatifs",7062,0
+7648,"platos . dishes . vaisselle",7062,0
+7649,"Espejos . Mirrors . Miroirs",7062,0
+7650,"chaqueta . jacket . blouson",7062,0
+7651,"corbatas . ties . cravates",7062,0
+7654,"trajes de baño . swimsuits . maillots de bain",7062,0
+7661,"Contabilidad . Accounting . Comptabilité",4728,0
+7666,"PROFESIONES Y  OFICIOS . Professions and trades .  Professions et métiers",0,0
+7667,"Alfombras . carpets . tapis",4728,0
+7668,"Asfalto . asphalt . asphalte",4728,0
+7669,"Club de Servicio . Service Club . club de service",4728,0
+7670,"Educacion . Education . education",4728,0
+7671,"Encuestadora . Polister . Sondeur",4728,0
+7672,"Hormigon . Concrete . en beton",4728,0
+7673,"Maquinarias . Machinery . Machinery",4728,0
+7674,"Mina de . Mine . Le Mien",4728,0
+7675,"Partidos Politicos . Politic Party . parti politique",4728,0
+7676,"TRANSPORTE DE PERSONAS . People transportation . TRANSPORT PERSONNES",4728,0
+7677,"Administrador . Administrator . Administrateur",7666,0
+7678,"Albañil . Builder . Maçon",7666,0
+7679,"Alcalde . Mayor . Maire",7666,0
+7680,"Alfarero . Potter . Portier",7666,0
+7681,"Arquitecto . Architect . Architecte",7666,0
+7682,"Artesano . Craftsman . Artisan",7666,0
+7683,"Artista . Artist . Artiste",7666,0
+7684,"Auditor de . Auditor of . Auditeur de",7666,0
+7685,"Ayudante de . Assistant . Assistant de",7666,0
+7687,"Bombero . Firefighter . Pompier",7666,0
+7688,"Camarero . Waiter . Serveur",7666,0
+7689,"Cantante de . Singer of . Chanteur de",7666,0
+7690,"Capitan de Barco . Ship captain . Capitaine de bateau",7666,0
+7691,"Cerrajero . Locksmith . Serrurier",7666,0
+7692,"Chef . Chef . Chef cuisinier",7666,0
+7693,"Chofer de . Driver of . Conducteur de",7666,0
+7694,"Consultor de . Consultant . Consultant",7666,0
+7695,"Licenciado en . Degree in . Licencie en",7666,0
+7696,"Costurera . Seamstress . Couturie2re",7666,0
+7697,"Decorador . Decorator . Décorateur",7666,0
+7698,"Desabollador . Defaulter . Defaillant",7666,0
+7699,"Diacono . Deacon . Diacre",7666,0
+7700,"Diputado . Deputy . Adjoint",7666,0
+7701,"Diseñador de . Designer of . Concepteur de",7666,0
+7702,"Diseñador grafico . Graphic designer . Graphiste",7666,0
+7703,"PHD . PHD . DOCTORAT",7666,0
+7704,"Ductero . Duct work . Travaux de conduits",7666,0
+7705,"Electricista de . Electrician of . Électricien de",7666,0
+7706,"Escultor . Sculptor . Sculpteur",7666,0
+7707,"Mecanico de . Mechanic of . Mecanicien de",7666,0
+7708,"Fotografo . Photographer . Le photographe",7666,0
+7709,"Gestor de . Manager . Gestionnaire de",7666,0
+7710,"Gestor de compras . Purchasing manager . Responsable des achats",7666,0
+7711,"Gomero .",7666,0
+7712,"Guarda Espaldas . Bodyguard . Garde du corps",7666,0
+7713,"Guia de . guide of . guide",7666,0
+7714,"Herrero . blacksmith . Forgeron",7666,0
+7716,"Ingeniero . Engineer . Ingenieur",7666,0
+7717,"Instalador de . Installer of . Installateur de",7666,0
+7718,"Interprete de . Interpreter of . Interprete de",7666,0
+7719,"Limpiador de  zapatos . Shoe cleaner . Nettoyant pour chaussures",7666,0
+7720,"Liniero . Line Man . monteur de lignes",7666,0
+7721,"Masagista . Massage therapist . Masseuse",7666,0
+7723,"Medico . physician . Docteur",7666,0
+7725,"Monja . Nun . Nonne",7666,0
+7726,"Monje . monk . moine",7666,0
+7727,"Musico de . Musician . Musicien",7666,0
+7728,"Obrero . Worker . Ouvrier",7666,0
+7729,"Operador de . Operator of . Operateur",7666,0
+7730,"Pastor Cristiano . Christian pastor . Pasteur chretien",7666,0
+7731,"Peluquero . Hairdresser . Coiffeur",7666,0
+7732,"Pescador . Fisherman . Pecheur",7666,0
+7733,"Piloto de . Pilot of . Pilote de",7666,0
+7734,"Pintor de . Painter of . Peintre de",7666,0
+7735,"Plomero . Plumber . Plombier",7666,0
+7736,"Politico . Politician . Politique",7666,0
+7737,"Profesor de . Professor of . Professeur de",7666,0
+7738,"Programador de . Programmer . Programmeur",7666,0
+7739,"Publicista . Publicist . Annonceur",7666,0
+7740,"Reparador de . Repairman . Reparateur",7666,0
+7741,"Sacerdote Catolico . Catholic priest . Pretre catholique",7666,0
+7742,"Sastre . Tailor . Tailleur",7666,0
+7743,"Secretaria . Secretary . Secretaire",7666,0
+7744,"Senador . Senator . Senateur",7666,0
+7745,"Soldador . Welder . Soudeur",7666,0
+7746,"Taxista . Cabbie . Chauffeur de taxi",7666,0
+7747,"Tecnico de . Technician of . Technicien",7666,0
+7748,"Terapista de . Therapist . Therapeute",7666,0
+7749,"Trabajos Domesticos . Domestic work . Travail domestique",7666,0
+7750,"Traductor de . Translator of . Traducteur de",7666,0
+7751,"Vendedor . Seller . Le vendeur",7666,0
+7752,"Vigilante . Vigilant . Vigilante",7666,0
+7754,"Zapatero . Shoemaker . Zapatero",7666,0
+7755,"Contador . Counter . Comptable",7666,0
+7756,"Dibujante . draftsman . un dessinateur",7666,0
+7759,Hoyero,7666,0
+7760,"Mercadologo . marketer . agent de commercialisation",7666,0
+7761,"bioanalista . bioanalyst . bioanalyseur",7666,0
+7769,"doblador varillas . bender rods . tiges de cintreuse",7666,0
+7770,"Madera de . Wood . Bois",7062,0
+7771,"CONTRATISTA AIRE ACONDICIONADO . Air Conditioning Contractor . ENTREPRENEUR EN CLIMATISATION",4728,0
+7772,"Tubero Armador . pipe maker . fabricant de tuyaux",7666,0
+7773,"Agricultor . farmer . agriculteur",7666,0
+7774,"Carnicero . Butcher . boucher",7666,0
+7775,"Entrenador de . coach of . entraineur de",7666,0
+7776,"Agrimensor . surveyor . arpenteur",7666,0
+7777,"Mensajero . delivery courier . messager",7666,0
+7778,"Florista . florist . fleuriste",7666,0
+7779,"Instalador de Paneles Solares",7666,0
+7780,"SINDICATO . Labor union . SYNDICAT DE TRAVAIL",4728,0
+7781,"RESORTES . Springs . RESSORTS",4728,0
+7782,"Prestamista . lender . preteur",7666,0
+7783,"Cadi de Golf . golf cadi . golf cadi",7666,0
+7784,"Almacenista . Storer . commercant",7666,0
+7785,"Capataz . foreman . contremaitre",7666,0
+7786,"Ebanista . Cabinetmaker . Ebeniste",7666,0
+7787,"Cuidador de Niños . Child Caregiver . Garde d enfants",7666,0
+7788,"Cuidador de Ancianos . Elderly Caregiver . Aide familiale agee",7666,0
+7789,"Helados . Ice creams . Glaces",7062,0
+7799,"Parqueos . Parking . Parking",7062,0
+7800,"TAPICERIA . Upholstery . TAPSSERIE",4728,0
+7802,"PINTURA DE CARROS . Car Painting . PEINTURE DE VOITURE",4728,0
+7803,"Bebidas sin alcohol . Drinks without alcohol . Boissons sans alcool",7062,0
+7804,"BEBIDAS ALCOHOLICAS  . Alcoholic beverages . BOISSONS ALCOOLISEES",7062,0
+7808,"CONTRATISTA PLOMERIA . Plumbing Contractor . ENTREPRENEUR PLOMBERIE",4728,0
+7809,"BIENES RAICES . real estate . IMMOBILIER",0,0
+7810,"CASAS . houses . MAISON",7809,0
+7811,"APARTAMENTOS . apartments . APPARTEMENTS",7809,0
+7812,"SOLARES . lots . LOTS",7809,0
+7813,"FINCA . farm . FINCA",7809,0
+7814,"VILLAS . villas . VILLAS",7809,0
+7816,"VEHICULOS . vehicles . VEHICULES",0,0
+7817,"CARROS . cars . LES VOITURES",7816,0
+7818,"Camionetas . Pickup trucks . Camionnettes",7816,0
+7819,"Moto . Motorcycle . La moto",7816,0
+7820,"BICICLETAS . bikes . BICYCLES",7816,0
+7821,"Camion . Truck . Camion",7816,0
+7822,"tractor . tractor . tracteur",7816,0
+7823,"Remolque . Trailer . Remorquage",7816,0
+7824,"remolque bajo . low trailer . remorque basse",7816,0
+7825,"Camion Trompo . Concrete truck . Camion beton",7816,0
+7826,"Boom de Concreto . concrete boom . fleche en beton",7816,0
+7827,"Bomba de Concreto . Concrete pump . Pompe a beton",7816,0
+7828,"Rodillo Compactador . Road roller . Compacteur routier",7816,0
+7829,"Retroexcabadoras . Backhoes . Retrocaveuses",7816,0
+7837,"Grua . crane . grue",7816,0
+7838,"Buldocer . Bulldozer . Bulldozer",7816,0
+7839,"Gredar . Gredar . Gredar",7816,0
+7840,"Camion Volteo . Dump truck . Camion benne",7816,0
+7841,"NAVE INDUSTRIAL . Industrial ship . NAVIRE INDUSTRIELLE",7809,0
+7842,"LOCAL COMERCIAL . shop . LOCAL COMMERCIEL",7809,0
+7843,"Otros . Others . d autres",7816,0
+7844,"OTROS . Others . D AUTRES",7809,0
+7845,"PENTHOUSE . Penthouse . PENTHOUSE",7809,0
+7846,"OFICINA . office . BUREAU",7809,0
+7847,"EDIFICIO . building . BâTIMENT",7809,0
+7873,"FABRICAS . Manufacturing . DES USINES",4728,0
+7874,"ADUANAS . Customs . DOUANE",4728,0
+7875,"FIBRA DE VIDRIO . Fiber Glass . FIBRE DE VERRE",4728,0
+7876,"CARGADOR ELECTRICO . electric charger . CHARGEUR ELECTRIQUE",4583,0
+7885,"REFRIGERACION . Refrigeration . REFRIGERATION",4728,0
+7889,"CONTRATISTA ELECTRICO . Electric Contractor . ENTREPRENEUR ELECTRIQUE",4728,0
+7891,"CALL CENTER . Call Center . CENTRE DE APPEL",4728,0
+7892,"Ventilador pulmonar . Pulmonary ventilator . Ventilateur pulmonaire",7062,0
+7893,"Mascarillas Medicas . Medical Masks . Masques medicaux",7062,0
+7897,"Conversatorio Virtual . Virtual Discussion . Discussion virtuelle",4827,0
+7898,"OFERTA DE TRABAJO . Job offer . OFFRE DE EMPLOI",0,0
+7899,ONGs,7898,0
+7900,"Arquitectura . architecture . architecture",7898,0
+7901,"Administracion . Administration . Administration",7898,0
+7902,"Arte . Art . Art",7898,0
+7903,"Diseño . Design . Conception",7898,0
+7904,"Medios . Media . Médias",7898,0
+7905,"Atencion Clientes . Customer Service . Service Clients",7898,0
+7906,"Ciencias . Science . Science",7898,0
+7907,"Laboratorio . Laboratory . Laboratoire",7898,0
+7908,"Biotecnologia . Biotechnology . Biotechnologie",7898,0
+7909,"Contabilidad . Accounting . Comptabilite",7898,0
+7910,"Finanzas . Finance . La finance",7898,0
+7911,"Educacion . Education . education",7898,0
+7912,"Ingenieria . Engineering . Ingenierie",7898,0
+7913,"Escritura . Writing . L ecriture",7898,0
+7914,"Especializado . Specialized . Specialise",7898,0
+7915,"Miscelaneos . Miscellaneous . Divers",7898,0
+7916,"Gimnasio . Gym . Gym",7898,0
+7917,"Spa . Spa . Spa",7898,0
+7918,"Inmobiliaria . Real estate . Immobilier",7898,0
+7919,"Labor General . General labour . Travail general",7898,0
+7920,"Legal . Legal . Legal",7898,0
+7921,"Gerencia .  Management . La gestion",7898,0
+7922,"Manufactura . Manufacture . Fabrication",7898,0
+7923,"Marketing . Marketing . Le marketing",7898,0
+7925,"Medico . physician . Docteur",7898,0
+7926,"Salud . Health . sante",7898,0
+7927,"Recursos Humanos . Human Resources . Ressources humaines",7898,0
+7928,"Seguridad . security . la securite",7898,0
+7929,"Sistemas . Systems . Les systemes",7898,0
+7930,"Redes . Redes . Reseaux",7898,0
+7931,"Software . software . Logiciels",7898,0
+7932,"Soporte tecnico . Technical support . Support technique",7898,0
+7933,"Television . TV . Television",7898,0
+7934,"Cine . cinema . cinéma",7898,0
+7935,"TRANSPORTE . transport . TRANSPORT",7898,0
+7936,"Ventas . Sales . Ventes",7898,0
+7937,"Construccion . Building . Batiment",7898,0
+7938,"Web . Web . la toile",7898,0
+7941,"OTROS . Others . D AUTRES",7666,0
+7942,"OTROS . Others . D AUTRES",7898,0
+7943,"INTERCAMBIO .",4583,0
+7944,"NOTICIAS Y OPINIONES . News and Opinions . NOUVELLES ET OPINIONS",0,0
+7945,"EXPRESATE . Express yourself . Exprimez-vous",7944,0
+7947,"Alarmas . Alarms . Alarmes",4728,0
+7948,"Camaras de Seguridad . Security cameras . Des caméras de sécurité",4728,0
+7949,"Gas propano . Propane gas . Gaz propane",4728,0
+7950,"Inversores . Electric inverters . Onduleurs électriques",4728,0
+7951,"Ventanas . Windows . les fenetres",4728,0
+7952,"Cerrajero . Locksmith . Serrurier",4728,0
+7953,"Fumigacion . Fumigation . Fumigation",4728,0
+7954,"Impermeabilizacion . Waterproofing . Imperméabilisation",4728,0
+7955,"Tapizado . Upholstered . Tapissé",4728,0
+7956,"Ebanisteria . Cabinetmaking . Ebenisterie",4728,0
+7957,"Estudios de Suelo . Soil Study . Etude du sol",4728,0
+7958,"Colchones . Mattresses . Matelas",4728,0
+7959,"Arquitectura . architecture . architecture",4728,0
+7960,"Piscina . Swimming pool . Piscine",4728,0
+7961,"Movimiento de Tierra . Earth movement . Mouvement de terre",4728,0
+7962,ABCMIO.com,0,0
+7963,"NOSOTROS .",7962,0
+7964,"CONTACTO .",7962,0
+7965,"PUBLICIDAD .",7962,0
+7966,"REPARACIONES VARIAS .",4728,0
+7967,"Cabañas Turisticas .",4728,0
+7969,"OPERADOR LOGISTICO .",4728,0
+7970,"NUEVAS CATEGORÍAS .",7962,0
+7971,"NUEVAS CIUDADES .",7962,0
+7974,ONG,4583,0
+7978,PLASTICOS.,4728,0
+7980,"HOGAR. Home.",4728,0
+7981,"TRAJES DE BAÑO.",4728,0
+7982,"INMOBILIARIA .",4728,0
+7984,"IGLESIA . Church . Eglise",4728,0
+7985,"IMPUESTOS . tax. IMPORT",4728,0
+7986,"EQUIPOS DE LABORATORIO .",4728,0
+7992,"ONG .",4728,0
+7993,"DISEÑO GRAFICO . graphic design . DESING GRAPHIQUE",4728,0
+7994,"JUGUETERIA .",4728,0
+7995,"PIÑATERIA .",4728,0
+7996,"TIENDA DE REGALOS .",4728,0
+7997,"TIENDA DE ARTESANIA .",4728,0
+7998,"TALLER DE IMPRESION .",4728,0
+7999,"TALLER AUTOMOTRIZ .",4728,0
+8000,"ATELIER .",4728,0
+8001,"TALLER DE CONFECCIONES .",4728,0
+8002,"ESTUDIO FOTOGRAFICO .",4728,0
+8003,"CATERING .",4728,0
+8004,"PAYASO .",4728,0
+8005,"APLICACIONES INFORMATICAS .",4728,0
+8006,"REPARACION DE MOVILES .",4728,0
+8007,"CARPINTERIA .",4728,0
+8008,"MENSAJERIA .",4728,0
+8009,"AGENCIA DE PUBLICIDAD .",4728,0
+8010,"COMMUNITY MANAGEMENT .",4728,0
+8011,"COMUNICACION DIGITAL .",4728,0
+8012,"ARTICULOS RELIGIOSOS .",4728,0
+8013,"PRUEBAS DE CONSTRUCCION . Construction Testing . Essais de Construction",4728,0
+8014,"ASTRONOMO. Astronomer. ASTRONOME",7666,0
+8015,"Plataforma de Anuncios . Ad platfom . plateforme publicitaire",4728,0
+8016,"ABOGADOS . Lawyers . AVOCATS",4728,0
+8017,"EQUIPOS ELECTRICOS .",4728,0
+8018,"AUTOMATIZACION .",4728,0
+8019,"FOROCELDAS .",7062,0
+8020,"CONTACTORES ELECTRICOS .",7062,0
+8021,"ENTRENAMIENTOS . training . entrainement",4827,0
+8022,"Estudio de Grabación . recording studio . studio d'enregistrement",4728,0
+8023,"Moto Taxi . Moto Taxi .Moto taxi",4728,0
+8024,"Denuncia de robo . theft report . rapport de vol",7816,0
+8025,"ENERGIA . Energy . Energie",7944,0
+8026,"PROYECTO . real estate project . projet immobilier",7809,0
+8027,"Movile Device Management",4728,0
+8028,"ECONOMIA . Economy .",7944,0
+8030,"EMBAJADA . embassy . ambassade",4728,0
+8031,"CONSULADO . consulate . Consulat",4728,0
+8032,"METALERA . metalhead . Metalhead",4728,0
+8033,"Arboles y foresta . trees and forest . arbres et forêt",4728,0
+8034,"Valvulas de control . Control Valves . Vannes de contrôle",7062,0
+8035,"Restauraciones . restorations . restaurations",4728,0
+8036,"Granja de  .farm of . ferme de",4728,0
+8037,DJ,7666,0
+8038,"TECNOLOGIA . Tecnology . La technologie",4728,0
+8039,"CLASES DE . Classes of . Classes de",4728,0

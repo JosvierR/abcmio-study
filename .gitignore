@@ -1,0 +1,33 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+.idea/
+.idea/*
+.idea/workspace.xml
+
+storage/logs/
+
+# DB dumps / backups
+public/*.sql
+public/*.sql.gz
+*.sql
+*.sql.gz
+db-*.gz
+defaultdb-*.gz
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Env files (never commit)
+.env*
+!.env.example

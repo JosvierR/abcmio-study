@@ -1,0 +1,50 @@
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+@import '~@fortawesome/fontawesome-free/scss/variables';
+@import '~@fortawesome/fontawesome-free/scss/icons';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+//@import  "node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
+//@import  "node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
+//@import  "node_modules/@fortawesome/fontawesome-free/scss/regular.scss";
+//@import  "node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
+
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Boostrap Select
+@import '~bootstrap-select/dist/css/bootstrap-select.min.css';
+
+@import '~jquery-ui/themes/base/all.css';
+
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+#site-logo {
+    img {
+        float: left;
+    }
+
+    span {
+        float: left;
+        padding-left: 10px;
+        font-family: 'Helvetica';
+        text-transform: uppercase;
+        color:$white;
+        font-weight: bold;
+        font-size: 1.25em;
+        padding-top: 10px;
+    }
+}
+
+@import "components/loading";
+@import "components/custom";
+@import "components/dropzone";
+@import "overrides";

@@ -1,0 +1,24 @@
+#main-menu {
+    background-color: #00757f !important;
+}
+#main-menu a{
+    color:#fff;
+}
+#main-menu .dropdown-menu a{
+    color:#000 !important;
+}
+
+#textarea_holder {
+    display: inline-block;
+    clear: both;
+}
+#term_and_condition {
+    border:solid 1px gray;
+    background-color: lightgray;
+    width: 100%;
+    height: 15em;
+    overflow: auto;
+}
+#term_and_condition  p{
+    margin: 0px;
+}
